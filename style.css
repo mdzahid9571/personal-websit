@@ -40,7 +40,7 @@ h1{
 }
 .project{
     float: left;
-    height: 500px;
+    height: 600px;
     overflow: hidden;
     display: block;
 }
@@ -57,8 +57,8 @@ section{
     padding-bottom: 100px;
 }
 .img-web{
-    height: 2px;
-    width: 1px;
+    height: 30%;
+    width: 80%;
     font-weight: 5px;
     font-size: 5px;
 }
@@ -66,11 +66,16 @@ section{
     background-image: url("background.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 300px 650px;
+    background-size: 1000px 650px;
     position: ;
-}
-.chat-icone{
     float: left;
-    height: 30px;
+    height: 50%;
+    width: 100%;
     position: center;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+
 }
