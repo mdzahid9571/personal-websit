@@ -1,0 +1,57 @@
+h1{
+    font-size: 50px;
+}
+.name-highlite{
+    color: rgb(217, 235, 63);
+}
+.my-detale{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.my-detale img{
+    width: 100%;
+    margin-top: 10px;
+    height: 350px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: bold;
+}
+.about-me{
+    height: 50px;
+    width: 100%;
+}
+#text{
+    text-align: center;
+    font-size: 2px;
+}
+.my-project{
+    box-shadow: 10px 10px 40px grey ;
+}
+#sumare{
+    text-align: center;
+}
+.red-hihglite{
+    color: salmon;
+}
+.project{
+    float: left;
+    height: 50px;
+}
+.my-project{
+
+   
+    box-shadow: 10px 10px 40px gray;
+    border-radius:10px;
+    height: 380%;
+    width: 20%;
+    background-color: white;
+   
+
+}
