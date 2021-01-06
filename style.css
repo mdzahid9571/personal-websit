@@ -1,3 +1,7 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+}
 h1{
     font-size: 50px;
 }
@@ -26,32 +30,47 @@ h1{
 .about-me{
     height: 50px;
     width: 100%;
+
 }
-#text{
-    text-align: center;
-    font-size: 2px;
-}
-.my-project{
-    box-shadow: 10px 10px 40px grey ;
+.red-hihglite{
+    color: red;
 }
 #sumare{
     text-align: center;
 }
-.red-hihglite{
-    color: salmon;
-}
 .project{
     float: left;
-    height: 50px;
+    height: 500px;
+    overflow: hidden;
+    display: block;
 }
-.my-project{
 
-   
+.my-project{
     box-shadow: 10px 10px 40px gray;
     border-radius:10px;
-    height: 380%;
+    height: 970%;
     width: 20%;
     background-color: white;
-   
-
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.img-web{
+    height: 2px;
+    width: 1px;
+    font-weight: 5px;
+    font-size: 5px;
+}
+.chat-icone{
+    background-image: url("background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px 650px;
+    position: ;
+}
+.chat-icone{
+    float: left;
+    height: 30px;
+    position: center;
 }
